@@ -13,7 +13,7 @@
 
 🌱 I'm constantly learning and staying curious about the latest advancements in the tech space. My interest in Data Science keeps me engaged in unraveling insights from data and turning them into meaningful stories.
 
-📫 Reach out to me at [Faysalmahmudnahid@gmail.com] (mailto:Faysalmahmudnahid@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/Faysal-mahmud-nahid).
+📫 Reach out to me at [Faysalmahmudnahid@gmail.com](mailto:Faysalmahmudnahid@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/Faysal-mahmud-nahid).
 
 ## 🔧 Technologies & Tools
 
